@@ -1,3 +1,7 @@
 Modify File 2 and commit to master
 
+<<<<<<< HEAD
 Modify File 2 and commit to branch second
+=======
+Modify File 2 and commit to branch first
+>>>>>>> first
