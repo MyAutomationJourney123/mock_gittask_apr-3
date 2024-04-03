@@ -1,1 +1,3 @@
 Modify File 3 and commit to master
+
+Modify File 3 and commit to branch second
